@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on **various things related to AI and front-end, I also practice creating Telegram bots**
 
-- 🌱 I’m currently learning **React, Stable diffusion**
+- 🌱 I’m currently learning **React, Stable diffusion, Llama 2**
 
 - 📫 How to reach me **daswerq123@gmail.com**
-
-- ⚡ Fun fact **I do gaming too**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
