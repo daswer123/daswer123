@@ -14,7 +14,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daswer123&show_icons=true&locale=en&layout=compact" alt="daswer123" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daswer123&show_icons=true&locale=en" alt="daswer123" /></p>
-
 ![Daswer123 GitHub stats](https://github-readme-stats.vercel.app/api?username=daswer123&show_icons=true&theme=transparent)
+
+
 
