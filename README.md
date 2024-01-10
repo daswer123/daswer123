@@ -16,5 +16,6 @@
 
 ![Daswer123 GitHub stats](https://github-readme-stats.vercel.app/api?username=daswer123&show_icons=true&theme=transparent)
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=daswer123&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 
