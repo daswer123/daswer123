@@ -16,4 +16,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daswer123&show_icons=true&locale=en" alt="daswer123" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daswer123&" alt="daswer123" /></p>
+![Daswer123 GitHub stats](https://github-readme-stats.vercel.app/api?username=daswer123&show_icons=true&theme=transparent)
+
