@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nababuddin&label=Profile%20views&color=0e75b6&style=flat" alt="nababuddin" /> </p>
 
-- 🔭 I’m currently working on **various things related to AI and front-end, I also practice creating Telegram bots**
+- 🔭 I’m currently working on **various things related to AI and backend-end, I also practice creating Telegram bots**
 
-- 🌱 I’m currently learning **React, Stable diffusion, Llama 2**
+- 🌱 I’m currently learning **Fast API, Stable diffusion, XTTSv2 , Llama 3**
 
 - 📫 How to reach me: **daswerq123@gmail.com** or **[telegram](https://t.me/daswer123)**
 
