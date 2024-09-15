@@ -9,6 +9,8 @@
 
 - 📫 How to reach me: **daswerq123@gmail.com** or **[telegram](https://t.me/daswer123)**
 
+- - ⚠ Very busy with commercial projects right now, so no free time at all. 
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daswer123&show_icons=true&locale=en&layout=compact" alt="daswer123" /></p>
 
 ![Daswer123 GitHub stats](https://github-readme-stats.vercel.app/api?username=daswer123&show_icons=true&theme=transparent)
