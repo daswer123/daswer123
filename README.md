@@ -1,20 +1,16 @@
-<h1 align="center">Hi 👋, I'm Danil Boldyrev</h1>
-<h3 align="center">AI enjoyer, Python developer and a bit of a Telegram bot creator</h3>
+<h1 align="center">Danil Boldyrev</h1>
+<h3 align="center">Python Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nababuddin&label=Profile%20views&color=0e75b6&style=flat" alt="nababuddin" /> </p>
+### About Me
+I specialize in backend development, AI integrations, and occasionally create Telegram bots. Currently focused on commercial projects with limited availability for open-source contributions.
 
-- 🔭 I’m currently working on **various things related to AI and backend-end, I also practice creating Telegram bots**
+### Contact
+- Email: **daswerq123@gmail.com**
+- Telegram: **[@daswer123](https://t.me/daswer123)**
 
-- 🌱 I’m currently learning **Fast API, Stable diffusion, XTTSv2 , Llama 3**
-
-- 📫 How to reach me: **daswerq123@gmail.com** or **[telegram](https://t.me/daswer123)**
-
-- - ⚠ Very busy with commercial projects right now, so no free time at all. 
-
+### GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daswer123&show_icons=true&locale=en&layout=compact" alt="daswer123" /></p>
 
 ![Daswer123 GitHub stats](https://github-readme-stats.vercel.app/api?username=daswer123&show_icons=true&theme=transparent)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=daswer123&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=daswer123)](https://git.io/streak-stats)
