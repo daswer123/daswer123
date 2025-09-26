@@ -1,8 +1,10 @@
 <h1 align="center">Danil Boldyrev</h1>
-<h3 align="center">Python Developer</h3>
+<h3 align="center">Python AI Developer</h3>
 
 ### About Me
-I specialize in backend development, AI integrations, and occasionally create Telegram bots. Currently focused on commercial projects with limited availability for open-source contributions.
+I specialize in backend development, AI integrations, and occasionally create Telegram bots. 
+
+**Super busy with work projects - can't take on open-source stuff right now**
 
 ### Contact
 - Email: **daswerq123@gmail.com**
